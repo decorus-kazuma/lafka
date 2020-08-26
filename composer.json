@@ -1,0 +1,14 @@
+{
+    "name": "decorus-kazuma/lafka",
+    "description": "Kafka producer & comsumer for Laravel",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kazuma Itou",
+            "email": "brightdelusion@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
